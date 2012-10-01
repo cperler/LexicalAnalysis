@@ -1,0 +1,10 @@
+bin\Release\Lex.exe
+bin\Release\Lex.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Lex.exe
+obj\Release\Lex.pdb
+bin\Debug\Lex.exe
+bin\Debug\Lex.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Lex.exe
+obj\Debug\Lex.pdb
