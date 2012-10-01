@@ -1,5 +1,0 @@
-C:\Users\Craig\Development\Lexical Analyzer\Lex\obj\Debug\Lex.exe
-C:\Users\Craig\Development\Lexical Analyzer\Lex\obj\Debug\Lex.pdb
-C:\Users\Craig\Development\Lexical Analyzer\Lex\bin\Debug\Lex.exe
-C:\Users\Craig\Development\Lexical Analyzer\Lex\bin\Debug\Lex.pdb
-C:\Users\Craig\Development\Lexical Analyzer\Lex\obj\Debug\ResolveAssemblyReference.cache

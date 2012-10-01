@@ -1,7 +1,0 @@
-D:\Development\Lexical Analyzer\Lex\obj\Release\Lex.exe
-D:\Development\Lexical Analyzer\Lex\obj\Release\Lex.pdb
-D:\Development\Lexical Analyzer\Lex\bin\Debug\Lex.exe
-D:\Development\Lexical Analyzer\Lex\bin\Debug\Lex.pdb
-D:\Development\Lexical Analyzer\Lex\obj\Debug\ResolveAssemblyReference.cache
-D:\Development\Lexical Analyzer\Lex\obj\Debug\Lex.exe
-D:\Development\Lexical Analyzer\Lex\obj\Debug\Lex.pdb
